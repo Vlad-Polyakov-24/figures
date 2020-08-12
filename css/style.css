@@ -51,6 +51,9 @@ html, body {
 	border-right: 50px solid transparent;
 	border-bottom: 100px solid green;
 }
+.triangle-up:hover {
+	border-bottom: 100px solid red;
+}
 .triangle-down {
 	width: 0;
 	height: 0;
